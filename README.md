@@ -13,7 +13,8 @@ Bu proje, kullanıcıların post paylaşabildiği, güncelleyip silebildiği bas
 
 ## 🖼️ Ekran Görüntüsü
 
-![Post Uygulaması Ekran Görüntüsü](client/public/screenshot.png)
+![Post Uygulaması Ekran Görüntüsü](https://raw.githubusercontent.com/HavvanurCetinkaya/post-uygulamas-/main/client/public/screenshot.png)
+
 
 
 
